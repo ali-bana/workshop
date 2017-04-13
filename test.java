@@ -21,7 +21,7 @@ public class test
     public static void main(String args[])
     {
        my k = new my();
-       k.s = "hassan";
+       k.s = "karim";
        ArrayList<my> sth = new ArrayList<>();
        sth.add(k);
         System.out.println(k.s);
@@ -29,5 +29,6 @@ public class test
         sth(k);
         System.out.println(k.s);
         System.out.println(sth.get(0).s);
+        //sth dfd
     }
 }
