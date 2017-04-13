@@ -24,12 +24,13 @@ public class test
        k.s = "karim";
        ArrayList<my> sth = new ArrayList<>();
        sth.add(k);
-        System.out.println(k.s);
+        System.out.print  System.out.println(k.s);
         System.out.println(sth.get(0).s);
-        sth(k);
-        System.out.println(k.s);
-        System.out.println(sth.get(0).s);
+<<<<<<< HEAD
         System.out.println("branch added sd");
+=======
+        System.out.println("new branch dev");
+>>>>>>> origin/dev
         //sth dfd
     }
 
